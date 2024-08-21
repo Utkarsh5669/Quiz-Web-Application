@@ -45,5 +45,5 @@ This is a Quiz Web Application built using Node.js, MongoDB, and various front-e
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/quiz-web-app.git
+   git clone https://github.com/Utkarsh5669/Quiz-Web-Application.git
    cd quiz-web-app
