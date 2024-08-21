@@ -97,9 +97,20 @@ npm start
 ```
 The frontend should now be running on http://localhost:3000.
 
-**Screenshots**
+### Screenshots:
 
-**License**
+![image](https://github.com/user-attachments/assets/a53b6c57-51aa-4f56-8402-4f0b00c3a242)
+
+![image](https://github.com/user-attachments/assets/cc53179f-c042-4280-a817-1d73e5831fae)
+
+![image](https://github.com/user-attachments/assets/950e3bc1-0b9e-4c56-a4a5-346a969453a7)
+
+![image](https://github.com/user-attachments/assets/029ead23-2f8d-4be5-9788-54a58730e5c7)
+
+
+
+
+### License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
